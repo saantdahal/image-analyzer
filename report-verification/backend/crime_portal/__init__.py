@@ -1,0 +1,1 @@
+default_app_config = 'crime_portal.apps.CrimePortalConfig'

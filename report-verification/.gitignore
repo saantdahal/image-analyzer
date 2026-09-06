@@ -1,0 +1,37 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.egg-info/
+db.sqlite3
+*.log
+
+# Virtual environment
+venv/
+env/
+backend.env
+
+# AI model files (large files)
+*.pth
+*.pt
+*.pkl
+
+# Django media & static
+backend/media/
+backend/staticfiles/
+
+# React / Node
+frontend/node_modules/
+frontend/.env
+frontend/build/
+frontend/dist/
+
+# Database
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
